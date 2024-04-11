@@ -1,6 +1,9 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+ul a {
+  color: white;
+}
 
 .bg-trabajos{
   background-image: url("../img/bg-trabajos.jpg");
@@ -11,7 +14,7 @@ body {
   color: #ffc107;
 }
 
-.navbar a:hover { 
+.navbar, .social a:hover { 
   color: #ffc107 !important; 
 }
 
